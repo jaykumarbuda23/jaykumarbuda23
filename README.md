@@ -1,32 +1,106 @@
-<h1 align="center">Hi 👋, I'm Jay kumar</h1>
-<h3 align="center">MERN Stack Developer passionate about building innovative, user-friendly, and scalable web applications while continuously learning and growing as a developer.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaykumarbuda23&label=Profile%20views&color=0e75b6&style=flat" alt="jaykumarbuda23" /> </p>
+👋 Hey, I'm Jaykumar Buda
+💻 Developer | 🚀 Problem Solver | 🌱 Lifelong Learner
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaykumarbuda23" alt="jaykumarbuda23" /></a> </p>
+Building projects, exploring technology, and turning ideas into code.
 
-- 🔭 I’m currently working on **Smart interview.ai**
+![GitHub](https://img.shields.io/badge/GitHub-jaykumarbuda23-181717?style=for-the-badge&logo=github) ![Profile Views](https://komarev.com/ghpvc/?username=jaykumarbuda23&label=PROFILE+VIEWS&color=6366f1&style=for-the-badge)
 
-- 🌱 I’m currently learning **Content creation, and technologies**
+</div>
 
-- 💬 Ask me about **Mern Stack Dev**
+👨‍💻 About Me
+🔭 I'm exploring new technologies and building projects.
+🌱 Always learning, improving, and experimenting with code.
+💡 Interested in solving problems and creating useful applications.
+🤝 Open to collaboration, learning opportunities, and open-source projects.
+⚡ My goal is to keep building, learning, and growing as a developer.
+🛠️ Languages & Tools
 
-- 📫 How to reach me **jaikumarbuda6@gmail.com**
+<div align="center">
 
-- ⚡ Fun fact **I like to Code**
+<!-- Customize this list to match your actual tech stack. -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jai-kumar-buda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jai-kumar-buda" height="30" width="40" /></a>
-<a href="https://instagram.com/@_r_e_x_x_0.8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@_r_e_x_x_0.8" height="30" width="40" /></a>
-</p>
+![My Skills](https://skillicons.dev/icons?i=git,github,vscode,html,css,js,python&theme=dark)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaykumarbuda23&show_icons=true&locale=en&layout=compact" alt="jaykumarbuda23" /></p>
+📊 GitHub Analytics
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaykumarbuda23&show_icons=true&locale=en" alt="jaykumarbuda23" /></p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaykumarbuda23&" alt="jaykumarbuda23" /></p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jaykumarbuda23&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true" alt="GitHub statistics" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaykumarbuda23&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Most used programming languages" />
+
+</div>
+
+<div align="center">
+
+!GitHub Stars
+
+!GitHub Followers
+
+</div>
+
+🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=jaykumarbuda23&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+📈 Contribution Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaykumarbuda23&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
+
+</div>
+
+📅 Commit Activity
+
+<div align="center">
+
+![Commit Activity](https://ghchart.rshah.org/6366f1/jaykumarbuda23)
+
+</div>
+
+🚀 Featured Projects
+
+<div align="center">
+
+<!-- Replace REPO_NAME_1 and REPO_NAME_2 with your actual repository names. -->
+
+<a href="https://github.com/jaykumarbuda23">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=jaykumarbuda23&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" alt="Featured project 1" />
+</a>
+<a href="https://github.com/jaykumarbuda23">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=jaykumarbuda23&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" alt="Featured project 2" />
+</a>
+
+</div>
+
+🔎 Explore more: All my repositories
+
+🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=jaykumarbuda23&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub achievements" width="100%" />
+
+</div>
+
+🤝 Let's Connect
+
+<div align="center">
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+⭐ Thanks for visiting my profile! If you find something interesting, feel free to explore my repositories.
+
+Keep learning. Keep building. Keep growing. 🚀
+
+</div>
 
