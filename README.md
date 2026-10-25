@@ -14,8 +14,13 @@ I build modern, responsive, and user-friendly web applications using JavaScript 
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=ABOUT+ME;WELCOME+TO+MY+PROFILE" alt="Typing About Me Animation" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&text=ABOUT%20ME&fontSize=40&fontColor=ffffff&fontAlignY=55&animation=fadeIn"
+    width="100%"
+    alt="Animated About Me Header"
+  />
 </p>
+
 
 
 <table align="center" width="100%">
