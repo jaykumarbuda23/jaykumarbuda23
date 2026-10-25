@@ -66,14 +66,19 @@ I build modern, responsive, and user-friendly web applications using JavaScript 
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=jaykumarbuda23&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=jaykumarbuda23&theme=blue_navy&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=jaykumarbuda23&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages" />
-</p>
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <img src="https://github-readme-stats.shion.dev/api?username=jaykumarbuda23&show_icons=true&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" height="180" />
+    </td>
+    <td width="33%" align="center">
+      <img src="https://streak-stats.demolab.com/?user=jaykumarbuda23&theme=blue_navy&hide_border=true" alt="Current Streak" height="180" />
+    </td>
+    <td width="33%" align="center">
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jaykumarbuda23&theme=blue_navy&hide_border=true&layout=compact&langs_count=5" alt="Most Used Languages" height="180" />
+    </td>
+  </tr>
+</table>
 
 ---
 
