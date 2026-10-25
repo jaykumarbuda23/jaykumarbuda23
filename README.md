@@ -13,13 +13,15 @@ I build modern, responsive, and user-friendly web applications using JavaScript 
 ---
 
 
+
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&text=ABOUT%20ME&fontSize=40&fontColor=ffffff&fontAlignY=55&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&text=ABOUT%20ME&fontSize=40&fontColor=ffffff&fontAlignY=55&animation=twinkling"
     width="100%"
     alt="Animated About Me Header"
   />
 </p>
+
 
 
 
