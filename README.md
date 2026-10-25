@@ -21,15 +21,15 @@ I build modern, responsive, and user-friendly web applications using JavaScript 
 <tr>
 <td valign="middle" width="78%">
 
-@ Currently Learning :  java Full-stack development
+# Currently Learning :  java Full-stack development
 
-> Ask Me About :    MERN Stack Development
+# Ask Me About :    MERN Stack Development
 
-> Interested In :   AI | web applications | software development
+# Interested In :   AI | web applications | software development
 
-> Education:   B-tech in cse From Biju Patnaik University Of Tech.
+# Education:   B-tech in cse From Biju Patnaik University Of Tech.
 
-> From :  India , Odisha 
+# From :  India , Odisha 
 
 </td>
 <td align="center" valign="middle" width="22%">
