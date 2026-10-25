@@ -12,50 +12,37 @@ I build modern, responsive, and user-friendly web applications using JavaScript 
 
 ---
 
-||  ABOUT ME ||
+🌸 ABOUT ME 🌸
 
 <p align="center">
-<img src="https://img.shields.io/badge/✦-SAKURA-DB75B5?style=flat-square" alt="Sakura" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=100&section=header&text=ABOUT%20ME&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%" alt="About Me Header" />
 </p>
 
-<table align="center" width="90%">
+<table align="center" width="100%">
 <tr>
-<td align="center">
-<h1> ABOUT ME </h1>
-<h3>私について</h3>
-<p>━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+<td valign="middle" width="78%">
+
+🔭 Currently Working On: Smart Interview AI
+
+🌱 Currently Learning: Full-stack development
+
+💬 Ask Me About: MERN Stack Development
+
+🤖 Interested In: AI and web applications
+
+🎯 Goal: Build scalable applications
+
+⚡ Fun Fact: Turning ideas into code
+
 </td>
-</tr>
-<tr>
-<td>
-<table width="100%">
-<tr>
-<td width="78%" valign="middle">
-
- > Currently Working On: Smart Interview AI
-
- > Currently Learning: Full-stack development
-
- > Ask Me About: MERN Stack Development
-
- > Interested In: AI and web applications
-
- 🎯 Goal: Build scalable applications
-
- > Fun Fact: Turning ideas into code
-
-      </td>
-      <td width="22%" align="center" valign="middle">
-        <a href="https://github.com/jaykumarbuda23">
-          <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="110" alt="GitHub Logo" />
-        </a>
-        <br />
-        <b>GITHUB</b>
-        <br />
-        <sub>Code • Create • Innovate</sub>
-      </td>
-    </tr>
-  </table>
+<td align="center" valign="middle" width="22%">
+  <a href="https://github.com/jaykumarbuda23">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100" alt="GitHub Logo" />
+  </a>
+  <br />
+  <b>GITHUB</b>
+  <br />
+  <sub>コード • 創造 • 革新</sub>
 </td>
 
 
@@ -63,7 +50,7 @@ I build modern, responsive, and user-friendly web applications using JavaScript 
 </table>
 
 <p align="center">
-<sub> ━━━━━━━━━━━━━━━━ </sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=4&section=footer" width="100%" alt="" />
 </p>
 
 ---
