@@ -14,15 +14,16 @@ I build modern, responsive, and user-friendly web applications using JavaScript 
 
 🌸 ABOUT ME 🌸
 
-<table>
+<table width="100%">
 <tr>
 <td colspan="2" align="center">
 <h1>🌸 ABOUT ME 🌸</h1>
 <h3>私について</h3>
+<p>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 </td>
 </tr>
 <tr>
-<td width="78%" valign="middle">
+<td width="80%" valign="middle">
 
 🔭 Currently Working On: Smart Interview AI
 
@@ -37,13 +38,12 @@ I build modern, responsive, and user-friendly web applications using JavaScript 
 ⚡ Fun Fact: Turning ideas into code
 
 </td>
-<td width="22%" align="center" valign="middle">
+<td width="20%" align="center" valign="middle">
   <a href="https://github.com/jaykumarbuda23">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="120" alt="GitHub Logo" />
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="150" alt="GitHub Logo" />
   </a>
   <br />
-  <b>GITHUB</b>
-  <br />
+  <h3>GITHUB</h3>
   <sub>Code • Create • Innovate</sub>
 </td>
 
