@@ -12,7 +12,7 @@ I build modern, responsive, and user-friendly web applications using JavaScript 
 
 ---
 
-🌸 ABOUT ME 🌸
+ABOUT ME 
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=100&section=header&text=ABOUT%20ME&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%" alt="About Me Header" />
