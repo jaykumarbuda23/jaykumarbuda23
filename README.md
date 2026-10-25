@@ -12,44 +12,59 @@ I build modern, responsive, and user-friendly web applications using JavaScript 
 
 ---
 
-🌸 ABOUT ME 🌸
+||  ABOUT ME ||
 
-<table width="100%">
+<p align="center">
+<img src="https://img.shields.io/badge/✦-SAKURA-DB75B5?style=flat-square" alt="Sakura" />
+</p>
+
+<table align="center" width="90%">
 <tr>
-<td colspan="2" align="center">
-<h1>🌸 ABOUT ME 🌸</h1>
+<td align="center">
+<h1> ABOUT ME </h1>
 <h3>私について</h3>
-<p>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+<p>━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 </td>
 </tr>
 <tr>
-<td width="80%" valign="middle">
+<td>
+<table width="100%">
+<tr>
+<td width="78%" valign="middle">
 
-🔭 Currently Working On: Smart Interview AI
+ > Currently Working On: Smart Interview AI
 
-🌱 Currently Learning: Full-stack development
+ > Currently Learning: Full-stack development
 
-💬 Ask Me About: MERN Stack Development
+ > Ask Me About: MERN Stack Development
 
-🤖 Interested In: AI and web applications
+ > Interested In: AI and web applications
 
-🎯 Goal: Build scalable applications
+ 🎯 Goal: Build scalable applications
 
-⚡ Fun Fact: Turning ideas into code
+ > Fun Fact: Turning ideas into code
 
-</td>
-<td width="20%" align="center" valign="middle">
-  <a href="https://github.com/jaykumarbuda23">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="150" alt="GitHub Logo" />
-  </a>
-  <br />
-  <h3>GITHUB</h3>
-  <sub>Code • Create • Innovate</sub>
+      </td>
+      <td width="22%" align="center" valign="middle">
+        <a href="https://github.com/jaykumarbuda23">
+          <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="110" alt="GitHub Logo" />
+        </a>
+        <br />
+        <b>GITHUB</b>
+        <br />
+        <sub>Code • Create • Innovate</sub>
+      </td>
+    </tr>
+  </table>
 </td>
 
 
 </tr>
 </table>
+
+<p align="center">
+<sub> ━━━━━━━━━━━━━━━━ </sub>
+</p>
 
 ---
 
