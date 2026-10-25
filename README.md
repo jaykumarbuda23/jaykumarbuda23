@@ -21,7 +21,7 @@ I build modern, responsive, and user-friendly web applications using JavaScript 
 <tr>
 <td valign="middle" width="78%">
 
- <h5>💻 Currently Learning :<h5/>  java Full-stack development
+ 💻 Currently Learning :  java Full-stack development
 
  ✔ Ask Me About :    MERN Stack Development
 
