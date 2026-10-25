@@ -11,7 +11,7 @@ I build modern, responsive, and user-friendly web applications using JavaScript 
 </p>
 
 ---
-//about me
+
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=100&section=header&text=ABOUT%20ME&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%" alt="About Me Header" />
@@ -21,17 +21,15 @@ I build modern, responsive, and user-friendly web applications using JavaScript 
 <tr>
 <td valign="middle" width="78%">
 
-🔭 Currently Working On: Smart Interview AI
+> Currently Learning: java Full-stack development
 
-🌱 Currently Learning: Full-stack development
+> Ask Me About: MERN Stack Development
 
-💬 Ask Me About: MERN Stack Development
+> Interested In: AI | web applications | software development
 
-🤖 Interested In: AI and web applications
+> Education: Btech in cse From Biju Patnaik University Of Tech.
 
-🎯 Goal: Build scalable applications
-
-⚡ Fun Fact: Turning ideas into code
+> From : India, Odisha 
 
 </td>
 <td align="center" valign="middle" width="22%">
