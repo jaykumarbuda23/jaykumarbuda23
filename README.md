@@ -1,6 +1,6 @@
 
 
-                                        💻 MERN Stack Developer | Full-Stack Web Developer
+                                        #💻 MERN Stack Developer | Full-Stack Web Developer#
 
 I build modern, responsive, and user-friendly web applications using JavaScript technologies. I enjoy solving problems, exploring new technologies, and continuously improving my development skills.
 
