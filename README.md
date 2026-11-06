@@ -1,44 +1,50 @@
-
-
-                                        💻 MERN Stack Developer | Full-Stack Web Developer
-
-I build modern, responsive, and user-friendly web applications using JavaScript technologies. I enjoy solving problems, exploring new technologies, and continuously improving my development skills.
+<!-- ===================== HEADER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=230&section=header&text=JAI%20KUMAR%20BUDA&fontSize=52&fontColor=00F5FF&fontAlignY=36&animation=fadeIn&desc=MERN%20Stack%20Developer%20%7C%20Full-Stack%20Web%20Developer&descSize=18&descColor=FFFFFF&descAlignY=58" width="100%" alt="Header" />
+</p>
 
 <p align="center">
   <a href="https://github.com/jaykumarbuda23">
-    <img src="https://komarev.com/ghpvc/?username=jaykumarbuda23&style=for-the-badge&color=blue" alt="Profile Views" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=720&height=50&lines=%3E+Initializing+MERN+Stack+Developer...;%3E+Building+modern%2C+responsive+web+apps;%3E+Currently+learning+Java+Full-Stack;%3E+Learning+continuously.+Building+consistently." alt="Typing Animation" />
   </a>
 </p>
 
----
-
-
-
-
-
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=70&lines=ABOUT+ME"
-    alt="Typing About Me"
-  />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00F5FF?style=for-the-badge&labelColor=0D1117" alt="Status" />
+  <img src="https://img.shields.io/badge/MODE-FULL--STACK-7B2FFF?style=for-the-badge&labelColor=0D1117" alt="Mode" />
+  <img src="https://img.shields.io/badge/STACK-MERN-FF00E5?style=for-the-badge&labelColor=0D1117" alt="Stack" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/jaykumarbuda23">
+    <img src="https://komarev.com/ghpvc/?username=jaykumarbuda23&style=for-the-badge&color=00F5FF&label=PROFILE+VIEWS" alt="Profile Views" />
+  </a>
+</p>
 
+<p align="center">
+  💻 I build <b>modern, responsive, and user-friendly web applications</b> using JavaScript technologies.<br/>
+  I enjoy solving problems, exploring new technologies, and continuously improving my development skills.
+</p>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=footer" width="100%" alt="" />
+
+<!-- ===================== ABOUT ME ===================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=38&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&height=70&lines=ABOUT+ME;%5B+SYSTEM+PROFILE+%5D" alt="About Me" />
+</p>
 
 <table align="center" width="100%">
 <tr>
 <td valign="middle" width="78%">
 
- 💻 Currently Learning :  java Full-stack development
-
- ✔ Ask Me About :    MERN Stack Development
-
- ⚙ Interested In :   AI | web applications | software development
-
- 📓 Education:   B-tech in cse From Biju Patnaik University Of Tech.
-
- 📍 From :  India , Odisha 
+```yaml
+# >_ DEVELOPER.PROFILE
+💻 Currently Learning : Java Full-Stack Development
+✔  Ask Me About       : MERN Stack Development
+⚙  Interested In      : AI | Web Applications | Software Development
+📓 Education          : B.Tech in CSE — Biju Patnaik University of Technology
+📍 From               : Odisha, India
+```
 
 </td>
 <td align="center" valign="middle" width="22%">
@@ -48,20 +54,17 @@ I build modern, responsive, and user-friendly web applications using JavaScript 
   <br />
   <b>GITHUB</b>
   <br />
-  <sub>Github</sub>
+  <sub>@jaykumarbuda23</sub>
 </td>
-
-
 </tr>
 </table>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=footer" width="100%" alt="" />
+
+<!-- ===================== TECH STACK ===================== -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=4&section=footer" width="100%" alt="" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=32&duration=2500&pause=1000&color=7B2FFF&center=true&vCenter=true&width=600&height=60&lines=%F0%9F%9B%A0%EF%B8%8F+TECH+STACK;%5B+LOADING+MODULES+...+%5D" alt="Tech Stack" />
 </p>
-
----
-
-## 🛠️ Tech Stack
 
 ### 🎨 Frontend Development
 
@@ -100,45 +103,61 @@ I build modern, responsive, and user-friendly web applications using JavaScript 
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=footer" width="100%" alt="" />
 
-## 📊 GitHub Analytics
+<!-- ===================== ANALYTICS ===================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=32&duration=2500&pause=1000&color=FF00E5&center=true&vCenter=true&width=600&height=60&lines=%F0%9F%93%8A+GITHUB+ANALYTICS;%5B+DATA+STREAM+ACTIVE+%5D" alt="GitHub Analytics" />
+</p>
 
-<table>
+<table align="center">
   <tr>
     <td width="33%" align="center">
-      <img src="https://github-readme-stats.shion.dev/api?username=jaykumarbuda23&show_icons=true&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" height="180" />
+      <img src="https://github-readme-stats.shion.dev/api?username=jaykumarbuda23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&title_color=00F5FF&icon_color=FF00E5&text_color=C9D1D9&bg_color=0D1117" alt="GitHub Stats" height="180" />
     </td>
     <td width="33%" align="center">
-      <img src="https://streak-stats.demolab.com/?user=jaykumarbuda23&theme=blue_navy&hide_border=true" alt="Current Streak" height="180" />
+      <img src="https://streak-stats.demolab.com/?user=jaykumarbuda23&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=FF00E5&currStreakLabel=00F5FF" alt="Current Streak" height="180" />
     </td>
     <td width="33%" align="center">
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jaykumarbuda23&theme=blue_navy&hide_border=true&layout=compact&langs_count=5" alt="Most Used Languages" height="180" />
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jaykumarbuda23&theme=tokyonight&hide_border=true&layout=compact&langs_count=5&title_color=00F5FF&text_color=C9D1D9&bg_color=0D1117" alt="Most Used Languages" height="180" />
     </td>
   </tr>
 </table>
 
----
-
-## 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jaykumarbuda23&theme=dark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaykumarbuda23&bg_color=0D1117&color=00F5FF&line=7B2FFF&point=FF00E5&area=true&area_color=7B2FFF&hide_border=true" width="100%" alt="Contribution Activity Graph" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=footer" width="100%" alt="" />
 
-## 📌 Top Contributed Repository
+<!-- ===================== TROPHIES ===================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=32&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=600&height=60&lines=%F0%9F%8F%86+GITHUB+TROPHIES;%5B+ACHIEVEMENTS+UNLOCKED+%5D" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jaykumarbuda23&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=footer" width="100%" alt="" />
+
+<!-- ===================== TOP REPO ===================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=30&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&height=60&lines=%F0%9F%93%8C+TOP+CONTRIBUTED+REPOSITORY;%5B+SCANNING+REPOSITORIES+%5D" alt="Top Contributed Repository" />
+</p>
 
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=jaykumarbuda23&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=footer" width="100%" alt="" />
 
-## 🌐 Connect With Me
+<!-- ===================== CONNECT ===================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=32&duration=2500&pause=1000&color=7B2FFF&center=true&vCenter=true&width=600&height=60&lines=%F0%9F%8C%90+CONNECT+WITH+ME;%5B+OPEN+COMMUNICATION+CHANNEL+%5D" alt="Connect With Me" />
+</p>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/jaykumarbuda23" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -153,10 +172,13 @@ I build modern, responsive, and user-friendly web applications using JavaScript 
   </a>
 </p>
 
----
+<!-- ===================== FOOTER ===================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&height=40&lines=%F0%9F%92%A1+Learning+continuously;Building+consistently;Growing+every+day" alt="Footer Typing" />
+</p>
 
 <p align="center">
-  <i>💡 Learning continuously • Building consistently • Growing every day</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer" width="100%" alt="Footer" />
 </p>
 
 
